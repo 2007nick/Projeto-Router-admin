@@ -39,19 +39,19 @@ Para instalar a aplicação, utilize os seguintes links:
 
 ### Tela Principal
 
-![Tela Principal](print_da_tela_principal)
+![Tela Principal](print_da_tela_principal.png)
 
 ### Tela de Informações do Dispositivo
 
-![Informações do Dispositivo](print_da_tela_de_informações)
+![Informações do Dispositivo](print_da_tela_de_informação.png)
 
 ### Tela de Teste de Conexão
 
-![Teste de Conexão](print_da_tela_de_teste_de_conexão)
+![Teste de Conexão](print_da_tela_de_teste_de_conexão.png)
 
 ### Tela de Licença
 
-![Licença MIT](print_da_tela_de_licença)
+![Licença MIT](print_da_tela_de_licença.png)
 
 ## Créditos
 
