@@ -32,8 +32,8 @@ Este projeto é uma aplicação desenvolvida inteiramente em português, destina
 
 Para instalar a aplicação, utilize os seguintes links:
 
-- [Link 1](#)
-- [Link 2](#)
+- [Componente](https://www.mediafire.com/file/niziadxcz17xkb5/component.json/file?dkey=83or979089e&r=494)
+- [Palette](https://www.mediafire.com/file/37l9xh8del23o01/palette.json/file)
 
 ## Prints da Aplicação
 
